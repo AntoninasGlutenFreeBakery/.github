@@ -26,10 +26,5 @@ Everything here contributes toward building a **scalable automation ecosystem** 
 
 ---
 
-## 🧠 Tech Domains
-
-> PLC | Robotics | Vision | AI | Simulation | Interfaces
-
----
-
 > _“Build fast. Build smart. Build reliable.”_
+
